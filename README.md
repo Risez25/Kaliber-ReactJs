@@ -1,2 +1,7 @@
 # Kaliber-ReactJs
-Create an simple website using react js
+
+# Getting Start
+- git clone this project
+- cd Kaliber-ReactJs
+- npm install or yarn install
+- npm start
