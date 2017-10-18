@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.placeholder_rel{position: relative;height:520px;background:#465366;}
+.bgvid{  width:100%;padding: 5%;opacity: 1;}
+.img_desktop{position: absolute; width: 88%;top: 4%; left: 6%;}
+.clear{clear:both;}
+@media screen and (max-width: 768px) {
+}
+/*div{border:1px solid #ddd;}*/
+._width10{width: 11.1%;float: left;padding: 1%;}
+._width100{width:100%;}
+
+.footer{background: #465366;}
+.footnote{background: #313944;padding: 2%;}
+.gmaps{padding: 1%; width:100%; min-height:250px;}
+.btncustom{background: transparent;color: #ddd;padding: 4%;border-radius: 34px;border: 1px solid #9e9e9e;}
+
+.bx-wrapper{-webkit-box-shadow: 0 0 5px #fff;box-shadow:0 0 5px #fff;}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
